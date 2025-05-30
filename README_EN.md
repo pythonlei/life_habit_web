@@ -36,10 +36,9 @@ LifeHabit is a science-based habit tracking app that helps you build new habits 
 - Smart data analysis helps you find optimal goal setting
 - Gradually adjust habit difficulty based on real performance data
 
-### 🎮 **Gamified Motivation System**
+### 🎮 **Motivation System**
 
-- Set rewards for yourself, earn energy through check-ins to redeem
-- Over 70 original hand-drawn check-in icons
+- Set rewards for yourself
 - Beautiful sharing images make every progress worth celebrating
 
 ### 🔔 **Smart Reminder System**
